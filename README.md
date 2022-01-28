@@ -3,7 +3,7 @@ HMA data for climate, physical geology, glacier, and overdeepening analysis.
 
 Description of all folders and directories:
 
-1.) <_Data_> folder includes shapfiles of the total and large overdeepenings calculated by (Furian, W., Loibl, D., & Schneider, C. (2021). Future glacial lakes in High Mountain Asia: An inventory and assessment of hazard potential from surrounding slopes. Journal of Glaciology, 1-18. doi:10.1017/jog.2021.18.)
+1.) <u>_Data_</u> folder includes shapfiles of the total and large overdeepenings calculated by (Furian, W., Loibl, D., & Schneider, C. (2021). Future glacial lakes in High Mountain Asia: An inventory and assessment of hazard potential from surrounding slopes. Journal of Glaciology, 1-18. doi:10.1017/jog.2021.18.)
 
 2.) <HMA ERA5 Land> data of total precipitation and temperature at 2m. This was averaged over a 31-year period from 1981-2021.
 
